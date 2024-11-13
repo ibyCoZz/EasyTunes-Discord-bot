@@ -1,4 +1,4 @@
-import lofibot
+import EasyTunes
 
 if __name__ == "__main__":
-    lofibot.run_bot()
+    EasyTunes.run_bot()
